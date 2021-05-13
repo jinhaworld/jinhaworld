@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jinhaworld
+- 👋 Hi, I’m Jinha Kim
 - 👀 I’m interested in coding and reading
 - 🌱 I’m currently learning computer science and mathematics 
 - 💞️ I’m looking to collaborate on life
